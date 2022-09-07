@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vector-clone-app/static/css/main.d411987c.css",
+    "main.js": "/vector-clone-app/static/js/main.31462d3a.js",
+    "static/js/787.975d4cfb.chunk.js": "/vector-clone-app/static/js/787.975d4cfb.chunk.js",
+    "index.html": "/vector-clone-app/index.html",
+    "main.d411987c.css.map": "/vector-clone-app/static/css/main.d411987c.css.map",
+    "main.31462d3a.js.map": "/vector-clone-app/static/js/main.31462d3a.js.map",
+    "787.975d4cfb.chunk.js.map": "/vector-clone-app/static/js/787.975d4cfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d411987c.css",
+    "static/js/main.31462d3a.js"
+  ]
+}
